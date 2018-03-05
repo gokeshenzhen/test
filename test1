@@ -1,0 +1,7 @@
+#setenv CDS_ROOT /tools/cadence/IC5141
+ 45 #setenv CDS_INST_DIR $CDS_ROOT
+ 46 #setenv CDS_Netlisting_Mode Analog
+ 47 #setenv CDS_IC5141_DIR $CDS_ROOT/tools
+ 48 #setenv MMSIM_ROOT /tools/cadence/mmsim141
+ 49 #set path = ($MMSIM_ROOT/bin $MMSIM_ROOT/tools/{bin,dfII/bin,spectre/bin} \
+ 50 #            $CDS_IC5141_DIR/{bin,dfII/bin}  $path)
